@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import SocialShare from '../components/socialShare'
 import Barchart from '../components/Barchart'
+import Recaman from '../components/Recaman'
 import styled from 'styled-components';
 import Logo from '../images/BBLogo.png'
 import Layout from '../components/layout'
@@ -282,7 +283,10 @@ export default Barchart;`}
                         Yes, there's a hooks version <code>useD3</code>.
                     </p>
                     <p>
-                    
+                    <svg width="350" height="300" viewBox="0 0 760 500"
+  preserveAspectRatio="xMidYMid meet">
+                            <Recaman x={150} y={150} width={350} height={300} />
+                        </svg>
                     </p>
                     <pre>
                 <code className="language-javascript">

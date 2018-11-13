@@ -32,20 +32,20 @@ const Layout = ({ children }) => (
                 <meta name="description" content="Take any D3 example you find in the wild and wrap it in a React component. Great for quick experiments and meeting deadlines. 😛" />
                 <meta itemprop="name" content="D3 BLACKBOX"></meta>
                 <meta itemprop="description" content="Take any D3 example you find in the wild and wrap it in a React component. Great for quick experiments and meeting deadlines. 😛"/>
-                <meta itemprop="image" content="https://determined-mestorf-684c04.netlify.com/static/ssimg-f32ddae4efdf69a44364799528bd91e4.png"/>
+                <meta itemprop="image" content="https://dd3bb.netlify.com/static/ssimg-f32ddae4efdf69a44364799528bd91e4.png"/>
 
                 
                 <meta property="og:url" content="https://shawnhosea.com"/>
                 <meta property="og:type" content="website"/>
                 <meta property="og:title" content="D3 BLACKBOX"/>
                 <meta property="og:description" content="Take any D3 example you find in the wild and wrap it in a React component. Great for quick experiments and meeting deadlines. 😛"/>
-                <meta property="og:image" content="https://determined-mestorf-684c04.netlify.com/static/ssimg-f32ddae4efdf69a44364799528bd91e4.png"/>
+                <meta property="og:image" content="https://dd3bb.netlify.com/static/ssimg-f32ddae4efdf69a44364799528bd91e4.png"/>
             
                 
                 <meta name="twitter:card" content="summary_large_image"></meta>
                 <meta name="twitter:title" content="D3 BLACKBOX"/>
                 <meta name="twitter:description" content="Take any D3 example you find in the wild and wrap it in a React component. Great for quick experiments and meeting deadlines. 😛"/>
-                <meta name="twitter:image" content="https://determined-mestorf-684c04.netlify.com/static/ssimg-f32ddae4efdf69a44364799528bd91e4.png"/>
+                <meta name="twitter:image" content="https://dd3bb.netlify.com/static/ssimg-f32ddae4efdf69a44364799528bd91e4.png"/>
                 
                 {/* ... */}
         </Helmet>
