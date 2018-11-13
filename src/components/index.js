@@ -25,12 +25,3 @@ export default function D3blackbox(D3render) {
     };
 }
 
-export const useD3 = function(render) {
-    const refAnchor = React.useRef(null);
-
-    React.useEffect(() => {
-        render(refAnchor.current);
-    });
-
-    return refAnchor;
-};
