@@ -1,4 +1,4 @@
-![alt text](https://dd3bb.netlify.com/static/ssimg-f32ddae4efdf69a44364799528bd91e4.png "Cover")
+![alt text](https://dd3bb.netlify.com/static/GITIMG-1507df85552efd032b8b3e38a342032a.png "Cover")
 
 # d3blackbox
 
