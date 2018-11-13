@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import SocialShare from '../components/socialShare'
-
+import Barchart from '../components/Barchart'
 import styled from 'styled-components';
 import Logo from '../images/BBLogo.png'
 import Layout from '../components/layout'
@@ -193,7 +193,9 @@ export default class Demo extends Component  {
                         sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"
                     />
                     </div>
-                    
+                    <svg width="300" height="200">
+        <Barchart x={10} y={10} width={300} height={200} />
+      </svg>
                 </WrapperUsage>
                 <WrapperGetStart>
                     <h1>Getting Started</h1>
@@ -233,7 +235,9 @@ export default Barchart;`}
                         </pre>
                     </p>
                     <p>
-                        
+                    <svg width="300" height="200">
+        <Barchart x={10} y={10} width={300} height={200} />
+      </svg>
                     </p>
 
                     <h1>Codesandbox</h1>
@@ -278,7 +282,7 @@ export default Barchart;`}
                         Yes, there's a hooks version <code>useD3</code>.
                     </p>
                     <p>
-                        
+                    
                     </p>
                     <pre>
                 <code className="language-javascript">
