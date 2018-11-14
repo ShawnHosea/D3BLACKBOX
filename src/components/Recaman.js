@@ -28,7 +28,7 @@ function recaman(svg, width, height) {
     var data = [];
     var sign = 1;
 
-    for (var s = 0; s < n - 1; s++) {
+    for ( i = 0; i < n - 1; i++) {
         var center = (seq[i] + seq[i + 1]) / 2;
         var radius = Math.abs(seq[i] - seq[i + 1]) / 2;
         var dir = Math.sign(seq[i + 1] - seq[i]);
