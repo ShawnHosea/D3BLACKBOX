@@ -8,7 +8,7 @@
     "babel-plugin-styled-components": "^1.8.0",
     "d3": "^5.7.0",
     "d3blackbox": "^1.0.0",
-    "gatsby": "^2.0.19",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.0.15",
     "gatsby-plugin-manifest": "^2.0.5",
     "gatsby-plugin-offline": "^2.0.11",
